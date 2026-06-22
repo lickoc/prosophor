@@ -1,9 +1,14 @@
 build
 build_win
+build_sdl
 .claude
 tool
 tests
 
 thirdparty_src/
 dist/releases/
+
+# Editor / IDE
+.vscode/
+.clangd
 
